@@ -3,7 +3,7 @@ export default function Header({toma1Valor}) {
   return (
     <h1 className="font-black text-5xl text-center md:w-2/3 mx-auto">
       Seguimiento Pacientes {""}
-      <span className="text-indigo-600">Veteriana</span>
+      <span className="text-indigo-600">Veteriana BUELE</span>
     </h1>
   )
 }
